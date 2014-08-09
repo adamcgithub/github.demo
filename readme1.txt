@@ -7,4 +7,8 @@ more changes
 updated on the remote repository
 updates locally
 further remote updates 
+
 some more local changes not merged
+
+
+and there is more
